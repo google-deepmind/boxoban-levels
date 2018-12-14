@@ -27,9 +27,9 @@ Within a file, puzzles are separated by a semicolon and a puzzle number. There a
 
 The unfiltered levels are separated into train (900000 puzzles), validation (100000 puzzles), and test (1000 puzzles). 
 
-Unfiltered puzzles are generated according to the procedure described in Imagination-Augmented Agents for Deep Reinforcement Learning (Racaniere et. al, proceedings of NeurIPS, 2017). The unfiltered test is the one used by Orseau et al. in Single-Agent Policy Tree Search With Guarantees (proceedings of NeurIPS, 2018). 
+Unfiltered puzzles are generated according to the procedure described in 'Imagination-Augmented Agents for Deep Reinforcement Learning' (Racaniere et. al, proceedings of NeurIPS, 2017). The unfiltered test is the one used by Orseau et al. in 'Single-Agent Policy Tree Search With Guarantees' (proceedings of NeurIPS, 2018). 
 
-The medium and hard datasets generation procedure is described in An investigation of model-free planning (Guez, Mirza, Gregor, Kabra et. al, arxiv, 2018). The medium set is composed of train (450000 puzzles) and validation (50000 puzzles); the hard set has 4000 levels.
+The medium and hard datasets generation procedure is described in 'An investigation of model-free planning' (Guez, Mirza, Gregor, Kabra et. al, arxiv, 2018). The medium set is composed of train (450000 puzzles) and validation (50000 puzzles); the hard set has 4000 levels.
 
 
 
