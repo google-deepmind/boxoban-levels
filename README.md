@@ -8,10 +8,10 @@ If you use this dataset in your work, please cite the following:
 
 ```
 @misc{boxobanlevels,
-author = {Arthur Guez, Mehdi Mirza, Karol Gregor, Rishabh Kabra, Sebastien Racaniere, Theophane Weber, David Raposo, Adam Santoro, Laurent Orseau, Tom Eccles, Greg Wayne, David Silver, Timothy Lillicrap, Victor Valdes},
+author = {Arthur Guez and Mehdi Mirza and Karol Gregor and Rishabh Kabra and Sebastien Racaniere and Theophane Weber and David Raposo and Adam Santoro and Laurent Orseau and Tom Eccles and Greg Wayne and David Silver and Timothy Lillicrap and Victor Valdes},
 title = {An investigation of Model-free planning: boxoban levels},
 howpublished= {https://github.com/deepmind/boxoban-levels/},
-year = "2018",
+year = "2018"
 }
 ```
 
